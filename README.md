@@ -16,8 +16,11 @@ Here is a quick summary:
    You need the install the C++ extension also, even though we will not use it
    for programming.
 4) Install the WPILIN extension available at:
+
     https://github.com/wpilibsuite/vscode-wpilib/releases/download/v2019.0.0-alpha-4/vscode-wpilib-2019.0.0-alpha-4.vsix
+
     The same file is also available in this repository:
+    
     https://github.com/FRC-USB-6880/DDS_Downloads/vscode-wpilib-2019.0.0-alpha-4.vsix
 
     Download the above file into a temporary directory in your laptop and follow the instructions in the webpage https://wpilib.screenstepslive.com/s/currentCS/m/79833/l/932382-installing-vs-code#install-the-wpilib-vscode-extension
