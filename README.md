@@ -12,15 +12,20 @@ https://wpilib.screenstepslive.com/s/currentCS/m/79833/c/259485
 Here is a quick summary:
 1) Download VScode from https://code.visualstudio.com/download and install it.
 2) Install and enable the Java extension
+
+    https://wpilib.screenstepslive.com/s/currentCS/m/79833/l/932382-installing-vs-code#java
 3) Install and enable the C++ extension
+
+    https://wpilib.screenstepslive.com/s/currentCS/m/79833/l/932382-installing-vs-code#c
+
    You need the install the C++ extension also, even though we will not use it
    for programming.
-4) Install the WPILIN extension available at:
+4) Install the WPILIB extension available at:
 
     https://github.com/wpilibsuite/vscode-wpilib/releases/download/v2019.0.0-alpha-4/vscode-wpilib-2019.0.0-alpha-4.vsix
 
     The same file is also available in this repository:
-    
+
     https://github.com/FRC-USB-6880/DDS_Downloads/vscode-wpilib-2019.0.0-alpha-4.vsix
 
     Download the above file into a temporary directory in your laptop and follow the instructions in the webpage https://wpilib.screenstepslive.com/s/currentCS/m/79833/l/932382-installing-vs-code#install-the-wpilib-vscode-extension
